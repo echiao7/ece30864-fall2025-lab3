@@ -5,7 +5,7 @@ Pros:
 2 - Easily adapts to changing requirments
 
 Cons:
-1 - Not  very predictable due to inherent adaptability 
+1 - Not very predictable due to inherent adaptability 
 2 - Due to fast nature, documentation may be ignored sometimes
 
 
