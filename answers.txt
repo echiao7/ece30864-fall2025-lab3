@@ -8,4 +8,16 @@ Cons:
 1 - Not very predictable due to inherent adaptability 
 2 - Due to fast nature, documentation may be ignored sometimes
 
+Question B)
+
+Scrum Master: 
+Guides team in agile methodology 
+Mentor role
+Help team(s) work through technical problems
+
+Project Owner:
+Jack of all trades
+Understand the needs of the stakeholders
+Directs the tasks of the Scrum master(s)
+Maintain progress and product backlog
 
