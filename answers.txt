@@ -36,3 +36,17 @@ Sprint Retrospective Meeting:
 Occurs at the end of the sprint
 Discuss work complete and move incomplete work to backlog
 
+
+Question D)
+
+Epic:
+Captures a large body of work that can be broken down into several
+
+Story: 
+A software system requirement that is expressed in a few short sentences
+
+Bug:
+A bug is a problem which impairs or prevents the functions of a product.
+
+Task:
+A task represents work that needs to be done.
